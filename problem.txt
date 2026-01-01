@@ -1,0 +1,163 @@
+https://chatgpt.com/share/69566b77-e7e8-800e-b728-ee964a311fd5    link for question
+
+🟢 BASIC OOP PROBLEMS (1–15)
+
+Focus: Class, Object, Constructor, Encapsulation
+
+Student Management System
+Create a Student class with name, roll, marks. Calculate grade.
+
+Bank Account
+Deposit, withdraw, check balance with proper validation.
+
+Car Rental System
+Car with brand, model, rent per day. Calculate total rent.
+
+Employee Salary System
+Calculate salary based on basic + bonus.
+
+Library Book
+Issue and return a book, track availability.
+
+Mobile Phone
+Track battery level, call duration, recharge.
+
+ATM Machine
+PIN verification, balance inquiry, withdrawal.
+
+Rectangle & Circle Calculator
+Calculate area and perimeter.
+
+Online Shopping Product
+Product price, discount, final price.
+
+Bus Ticket System
+Passenger details and ticket price calculation.
+
+Electric Bill Calculator
+Bill calculation based on unit slabs.
+
+Movie Ticket Booking
+Seat booking and total price.
+
+Weather Report
+Store temperature, humidity, and display weather status.
+
+Employee Attendance System
+Track present/absent days.
+
+Room Rent System
+Calculate rent based on days stayed.
+
+🔵 INTERMEDIATE OOP PROBLEMS (16–35)
+
+Focus: Inheritance, Polymorphism, Abstraction, Interface
+
+Vehicle System
+Base Vehicle, subclasses Car, Bike, Truck.
+
+Online Payment System
+Interface Payment → Bkash, Nagad, Card.
+
+Hospital Management
+Doctor, Patient, Appointment classes.
+
+Shape Drawing App
+Abstract class Shape → Circle, Rectangle, Triangle.
+
+Employee Hierarchy
+Employee → Manager, Developer, Intern.
+
+Restaurant Order System
+Order, MenuItem, Bill calculation.
+
+School Management System
+Student, Teacher, Course relationships.
+
+Animal Sound Simulator
+Animal → Dog, Cat, Cow (method overriding).
+
+Bank Loan System
+HomeLoan, CarLoan, EducationLoan.
+
+E-Commerce Cart
+Add/remove products and calculate total.
+
+Hotel Booking System
+Room types with different pricing.
+
+Notification System
+Email, SMS, Push notification (polymorphism).
+
+Employee Bonus Calculator
+Bonus rules differ per role.
+
+Transport Fare System
+Bus, Train, Uber fare calculation.
+
+Online Exam System
+MCQ exam, score calculation.
+
+Media Player
+AudioPlayer, VideoPlayer.
+
+Bank Interest Calculator
+Savings vs Fixed deposit accounts.
+
+Food Delivery App
+Restaurant, Order, DeliveryBoy.
+
+Insurance Policy System
+Life, Health, Vehicle insurance.
+
+Gaming Character System
+Player with different abilities.
+
+🔴 ADVANCED OOP PROBLEMS (36–50)
+
+Focus: SOLID, Design Patterns, Real Projects
+
+Library Management System (Full)
+Books, Members, Transactions.
+
+Ride Sharing App (Mini Uber)
+Driver, Rider, Fare calculation.
+
+Online Shopping System
+Product, Cart, Order, Payment.
+
+Banking System (Realistic)
+Multiple accounts, transactions, logs.
+
+Inventory Management System
+Add, update, delete stock.
+
+Hotel Reservation System
+Booking, cancellation, refund logic.
+
+Employee Payroll System
+Tax, allowance, overtime calculation.
+
+School Result Processing System
+Subject-wise marks & GPA.
+
+Cinema Booking System
+Seat locking & booking.
+
+File Management System
+File, Folder (Composite Pattern).
+
+Chat Application (Console-based)
+User, Message, ChatRoom.
+
+Smart Home System
+Light, Fan, AC (Interface-based control).
+
+Online Voting System
+Candidate, Voter, Vote counting.
+
+Food Inventory for Restaurant
+Stock usage and refill alert.
+
+E-Wallet System
+Balance, transfer, transaction history.
